@@ -6,6 +6,7 @@ php-cut-image
 用法:
 
 <?php
+
 require_once "cut_image.php";
 
 $cut = new ImageCut();
